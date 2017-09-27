@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/nick_generator.dir/NickGenerator.cpp.o CMakeFiles/nick_generator.dir/Alphabet.cpp.o CMakeFiles/nick_generator.dir/main.cpp.o  -o nick_generator  -L/home/guner/Packages/nana/build/bin -rdynamic -Wl,-Bstatic -lnana -Wl,-Bdynamic -lX11 -lpthread -lrt -lXft -lpng -lasound -lfontconfig -lstdc++fs -Wl,-rpath,/home/guner/Packages/nana/build/bin: 
